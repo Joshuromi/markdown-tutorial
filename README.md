@@ -43,7 +43,7 @@ ___
     * nested item1
     * nested item 2
 
-<!-- OL -->
+<!-- OL --> 
 1. item one
 1. item 2
 1. item 3
@@ -55,5 +55,34 @@ ___
 
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github Markdown -->
+
+<!--code block -->
+
+```bash
+    npm install
+
+    npm start
+```
+
+```javascript
+    function add(num1, num2) {
+        return num1 + num2;
+    }
+```
  
+ <!-- Table -->
+
+ | Name | Email|
+ |------|------|
+ | John Doe | johndoe@email.com|
+ | Mary Jane | maryjane@email.com|
+
+ <!-- Task List -->
+
+* [x] Task 1
+* [X] Task 2
+* [] Task 3
+
  
