@@ -83,6 +83,6 @@ ___
 
 * [x] Task 1
 * [X] Task 2
-* [] Task 3
+* [ ] Task 3
 
  
